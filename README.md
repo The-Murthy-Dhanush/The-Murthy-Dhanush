@@ -3,9 +3,9 @@ Public health surveillance (CDESS, ECLRS) data quality automation; Medicaid clai
 Enjoys Generative AI, LLM evaluation, and building reproducible pipelines with CI and coverage.
 
 ## **Skills**
-Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow), SQL, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R.
-ML/Analytics: Regression, Classification, Clustering, GMMs, PCA, Time Series, EDA, Model Evaluation.
-Visualization: Tableau, Power BI, Python (Matplotlib/Seaborn), SAS Viya, Excel.
+Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow), SQL, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R. \
+ML/Analytics: Regression, Classification, Clustering, GMMs, PCA, Time Series, EDA, Model Evaluation. \
+Visualization: Tableau, Power BI, Python (Matplotlib/Seaborn), SAS Viya, Excel. \
 Ops: Git/GitHub, GitHub Actions, testing/coverage; basic Docker/Cloud familiarity.
 
 Public Health Skills: Healthcare: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
