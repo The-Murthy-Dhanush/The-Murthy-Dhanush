@@ -8,7 +8,7 @@ ML/Analytics: Regression, Classification, Clustering, GMMs, PCA, Time Series, ED
 Visualization: Tableau, Power BI, Python (Matplotlib/Seaborn), SAS Viya, Excel. \
 Ops: Git/GitHub, GitHub Actions, testing/coverage; basic Docker/Cloud familiarity.
 
-Public Health Skills: Healthcare: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
+Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
 
 ## **Highlights**
 **Health Research Inc. (2025—)**: Automated SAS EG workflows to de‑duplicate influenza codes; improved demographic reporting accuracy by 25% via trend analyses and geolocation fixes.
