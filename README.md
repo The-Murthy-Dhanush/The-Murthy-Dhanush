@@ -30,7 +30,7 @@
 
 ## **Recent works overview**
 Public health surveillance (CDESS, ECLRS) data quality automation; Medicaid claims modeling for high‑risk patterns; crisis hotline analytics in Tableau.
-Enjoys Generative AI, LLM evaluation, and building reproducible pipelines with CI and coverage.
+Developing expertise in generative AI for clinical decision support, evidence-based LLM evaluation protocols, and robust, continuously tested data processing pipelines to ensure reproducible healthcare analytics.
 
 ## **Skills**
 Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow), SQL, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R. \
