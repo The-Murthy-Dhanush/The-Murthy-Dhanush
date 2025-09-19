@@ -48,7 +48,24 @@ Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical
 **Hypertension Risk Project (2025)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
 
 ## **Projects**
-To be filled.
+**Predicting Demographic Risk Factors for Hypertension**
+- Applied Principal Component Analysis (PCA) to reduce feature space while maintaining key variance.
+- Implemented Radial Basis Function kernel-based Support Vector Machines, regression techniques, tree techniques,
+regularization, and boosting techniques to predict high-risk demographics.
+- Performed analyses of 2013, 2015, and 2017 datasets to evaluate trends and shifts in key factors over the years by
+performing time series analyses, aiding proactive public health planning.
+
+**Titanic - Machine Learning from Disaster**
+- Incorporated machine learning to create a model that predicts passengers who survived the
+Titanic shipwreck using Python (Jupyter Notebook).
+- Applied algorithms to specific cases to obtain better results compared to existing ones.
+  
+**The New York City Taxicab Parking Lot problem**
+- Incorporated a modified KMeans algorithm - KMedians to predict the apt parking lot
+locations for all taxicab rides in New York City to optimize ride costs.
+
+**Temperature prediction over the next 80 years using Non-Parametric Statistics** (Please complete this)
+- Used the methods of Non-Parametric Statistics to predict a city's trend of rising temperature
 
 ## **Experience**
 Health Research Inc. — Surveillance data quality, automation, and logic design; key outcome: 25% improvement in demographic accuracy, faster weekly reporting.
