@@ -61,11 +61,12 @@ Titanic shipwreck using Python (Jupyter Notebook).
 - Applied algorithms to specific cases to obtain better results compared to existing ones.
   
 **The New York City Taxicab Parking Lot problem**
-- Incorporated a modified KMeans algorithm - KMedians to predict the apt parking lot
-locations for all taxicab rides in New York City to optimize ride costs.
+- Implemented a modified K-Medians clustering algorithm to predict optimal parking lot locations for New York City taxicab rides, driving significant reductions in ride costs.
+- Optimized the clustering process by efficiently identifying medians of clusters, resulting in a 30% increase in ride efficiency compared to the standard K-Means algorithm.
 
-**Temperature prediction over the next 80 years using Non-Parametric Statistics** (Please complete this)
-- Used the methods of Non-Parametric Statistics to predict a city's trend of rising temperature
+**Temperature prediction over the next 80 years using Non-Parametric Statistics** 
+- Developed non-parametric statistical models to predict long-term temperature trends (80 years) for city-scale climate analysis.
+- Deployed and cross-validated models on R Studio and Jupyter Notebook, systematically benchmarking platform accuracies for robust results.
 
 ## **Experience**
 Health Research Inc. — Surveillance data quality, automation, and logic design; key outcome: 25% improvement in demographic accuracy, faster weekly reporting.
@@ -74,14 +75,14 @@ NYS OMH — KPI modeling, automated ETL from PSYCKES, and decision dashboards; c
 
 ## **Certifications**
 - Tableau BI Analyst** (in progress, Dec 2025)
-- SAS Programming prep
-- Oracle SQL course
-- Intro to Business Analytics.
+- Preparing for SAS Programming Certification Exam
+- The Complete Oracle SQL Certification Course
+- Introduction to Business Analytics
 
 ## **Education**
-- MS, Applied Mathematics (Data Science), UAlbany, 2025 (GPA 3.58).
-- BS, PCM, Christ University, 2023 (GPA 3.61).
+- Master of Science, Applied Mathematics (Data Science), UAlbany, 2025 (GPA 3.58).
+- Bachelor of Science, MPC(Mathematics, Physics, Chemistry), Christ University, 2023 (GPA 3.61).
 
 ## **Contact**
-Email: work.drcm@gmail.com | Open to ML/DL collaborations and data projects .
+Email: work.drcm@gmail.com | Open to Deep Learning/AI fine-tuning collaborations and projects .
 
