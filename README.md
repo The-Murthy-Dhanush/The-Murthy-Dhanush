@@ -45,7 +45,7 @@ Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical
 
 **NYS Office of Mental Health (2024–2025)**: Regression models on Medicaid KPIs; automated PSYCKES ETL (SQL/SAS/Excel); 5+ Tableau dashboards for statewide response optimization; QA on HIPAA-compliant quality indicators using JIRA.
 
-**Hypertension Risk Project (2025)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
+**Hypertension Risk Project (2023-2024)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
 
 ## **Projects**
 **Predicting Demographic Risk Factors for Hypertension**
