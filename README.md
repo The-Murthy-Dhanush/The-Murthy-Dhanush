@@ -1,3 +1,5 @@
+
+        
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34F26,10:F1662A,100:DD003&height=60&section=header&text=Dhanush%20Ramachandra%20Murthy&fontColor=ffffff&fontSize=26" alt="Header"/>
 </p>
@@ -10,6 +12,8 @@
 &nbsp;&nbsp;
 
 </div>
+
+
 
 
 ## **Proficient Skills**
@@ -36,7 +40,7 @@ Developing expertise in generative AI for clinical decision support, evidence-ba
 Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow), SQL, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R. \
 ML/Analytics: Regression, Classification, Clustering, GMMs, PCA, Time Series, EDA, Model Evaluation. \
 Visualization: Tableau, Power BI, Python (Matplotlib/Seaborn), SAS Viya, Excel. \
-Ops: Git/GitHub, GitHub Actions, testing/coverage; basic Docker/Cloud familiarity.
+Cloud Computing: Microsoft Azure, End to End Analytics with Snowflake.
 
 Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
 
@@ -79,10 +83,12 @@ NYS OMH — KPI modeling, automated ETL from PSYCKES, and decision dashboards; c
 - The Complete Oracle SQL Certification Course
 - Introduction to Business Analytics
 
+
 ## **Education**
 - Master of Science, Applied Mathematics (Data Science), UAlbany, 2025 (GPA 3.58).
 - Bachelor of Science, MPC(Mathematics, Physics, Chemistry), Christ University, 2023 (GPA 3.61).
 
 ## **Contact**
 Email: work.drcm@gmail.com | Open to Deep Learning/AI fine-tuning collaborations and projects .
+
 
