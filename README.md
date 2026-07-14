@@ -33,7 +33,7 @@
 
 
 ## **Recent works overview**
-Public health surveillance (CDESS, ECLRS) data quality automation; Medicaid claims modeling for high‑risk patterns; crisis hotline analytics in Tableau.
+Medicaid claims modeling for the detection of high‑risk patterns; crisis hotline analytics in Tableau.
 Developing expertise in generative AI for clinical decision support, evidence-based LLM evaluation protocols, and robust, continuously tested data processing pipelines to ensure reproducible healthcare analytics.
 
 ## **Skills**
@@ -78,7 +78,6 @@ Health Research Inc. — Surveillance data quality, automation, and logic design
 NYS OMH — KPI modeling, automated ETL from PSYCKES, and decision dashboards; cross‑team handoffs with JIRA‑tracked QA.
 
 ## **Certifications**
-- Tableau BI Analyst** (in progress, Dec 2025)
 - Preparing for SAS Programming Certification Exam
 - The Complete Oracle SQL Certification Course
 - Introduction to Business Analytics
