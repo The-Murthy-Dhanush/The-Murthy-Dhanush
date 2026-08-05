@@ -46,7 +46,9 @@ Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical
 
 ## **Highlights**
 **Quant Portfolio Project**: Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data
+
 Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market.
+
 Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
 
 **Health Research Inc. (Jun 2025 - Dec 2025)**: Automated SAS EG workflows to de‑duplicate influenza codes; improved demographic reporting accuracy by 25% via trend analyses and geolocation fixes.
