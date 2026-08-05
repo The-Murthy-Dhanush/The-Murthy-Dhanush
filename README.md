@@ -45,11 +45,7 @@ Cloud Computing: Microsoft Azure, End to End Analytics with Snowflake.
 Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
 
 ## **Highlights**
-**Quant Portfolio Project**: Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data
-
-Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market.
-
-Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
+**Quant Portfolio Project**: Building an automated stock portfolio where the model analyses market data, computes statistical correlations and modifies the portfolio allocations based on correlation trends. 
 
 **Health Research Inc. (Jun 2025 - Dec 2025)**: Automated SAS EG workflows to de‑duplicate influenza codes; improved demographic reporting accuracy by 25% via trend analyses and geolocation fixes.
 
@@ -58,12 +54,17 @@ Finally, building an optimizer to automate the recognition of a market crash sta
 **Hypertension Risk Project (September 2023 - Jan 2024)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
 
 ## **Projects**
+**Quantitative Stock Portfolio using Topological Data Analysis (Phase 2, Ongoing)** 
+Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data. \
+Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market. \
+Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
+
 **Predicting Demographic Risk Factors for Hypertension**
 - Applied Principal Component Analysis (PCA) to reduce feature space while maintaining key variance.
 - Implemented Radial Basis Function kernel-based Support Vector Machines, regression techniques, tree techniques,
 regularization, and boosting techniques to predict high-risk demographics.
 - Performed analyses of 2013, 2015, and 2017 datasets to evaluate trends and shifts in key factors over the years by
-performing time series analyses, aiding proactive public health planning.
+performing time series analyses aiding proactive public health planning.
 
 **Titanic - Machine Learning from Disaster**
 - Incorporated machine learning to create a model that predicts passengers who survived the
@@ -75,10 +76,12 @@ Titanic shipwreck using Python (Jupyter Notebook).
 - Optimized the clustering process by efficiently identifying medians of clusters, resulting in a 30% increase in ride efficiency compared to the standard K-Means algorithm.
 
 **Temperature prediction over the next 80 years using Non-Parametric Statistics** 
-- Developed non-parametric statistical models to predict long-term temperature trends (80 years) for city-scale climate analysis.
-- Deployed and cross-validated models on R Studio and Jupyter Notebook, systematically benchmarking platform accuracies for robust results.
+- Developed non-parametric statistical models such as Pearson's R correlation test and Mann-Whitney's U-test to predict long-term temperature trends (80 years) for city-scale climate analysis.
+- Deployed and cross-validated statistical models on R Studio and Jupyter Notebook, systematically benchmarking platform accuracies for robust results.
 
 ## **Experience**
+PHC - Acted as a data liaison in the configuration department, aiding with the implementation of a new Healthcare payer system. 
+
 Health Research Inc. — Surveillance data quality, automation, and logic design; key outcome: 25% improvement in demographic accuracy, faster weekly reporting.
 
 NYS OMH — KPI modeling, automated ETL from PSYCKES, and decision dashboards; cross‑team handoffs with JIRA‑tracked QA.
