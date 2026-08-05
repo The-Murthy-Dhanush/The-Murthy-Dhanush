@@ -8,7 +8,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-work.DRCM%40gmail.com-blue?logo=gmail)](mailto:work.DRCM@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dhanush-ramachandra-murthy-msds-00461227a/)
-&nbsp;&nbsp; ![Location](https://img.shields.io/badge/Albany-NY-6aa84f?logo=google-maps)
+&nbsp;&nbsp; ![Location](https://img.shields.io/badge/Dublin-CA-6aa84f?logo=google-maps)
 &nbsp;&nbsp;
 
 </div>
