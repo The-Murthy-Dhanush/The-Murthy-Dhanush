@@ -45,11 +45,15 @@ Cloud Computing: Microsoft Azure, End to End Analytics with Snowflake.
 Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
 
 ## **Highlights**
-**Health Research Inc. (2025—)**: Automated SAS EG workflows to de‑duplicate influenza codes; improved demographic reporting accuracy by 25% via trend analyses and geolocation fixes.
+**Quant Portfolio Project**: Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data
+Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market.
+Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
 
-**NYS Office of Mental Health (2024–2025)**: Regression models on Medicaid KPIs; automated PSYCKES ETL (SQL/SAS/Excel); 5+ Tableau dashboards for statewide response optimization; QA on HIPAA-compliant quality indicators using JIRA.
+**Health Research Inc. (Jun 2025 - Dec 2025)**: Automated SAS EG workflows to de‑duplicate influenza codes; improved demographic reporting accuracy by 25% via trend analyses and geolocation fixes.
 
-**Hypertension Risk Project (2023-2024)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
+**NYS Office of Mental Health (June 2024 – May 2025)**: Regression models on Medicaid KPIs; automated PSYCKES ETL (SQL/SAS/Excel); 5+ Tableau dashboards for statewide response optimization; QA on HIPAA-compliant quality indicators using JIRA.
+
+**Hypertension Risk Project (September 2023 - Jan 2024)**: PCA for dimensionality reduction; compared SVM/RF/boosting; time‑series trend analysis across 2013/2015/2017 cohorts.
 
 ## **Projects**
 **Predicting Demographic Risk Factors for Hypertension**
