@@ -55,9 +55,9 @@ Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical
 
 ## **Projects**
 **Quantitative Stock Portfolio using Topological Data Analysis (Phase 2, Ongoing)** 
-Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data. \
-Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market. \
-Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
+- Incorporating Topological Data Analysis to extract features such as Betti numbers and persistence diagrams to quantify  system fragility and interconnectedness of market data. \
+- Building a custom LSTM sequential model using features extracted from phase 1 to predict the current stage of the market. \
+- Finally, building an optimizer to automate the recognition of a market crash stage, which will tighten constraints on exposure and pivot towards defensive allocations and vice versa. 
 
 **Predicting Demographic Risk Factors for Hypertension**
 - Applied Principal Component Analysis (PCA) to reduce feature space while maintaining key variance.
