@@ -37,10 +37,10 @@ Medicaid claims modeling for the detection of high‑risk patterns; crisis hotli
 Developing expertise in generative AI for clinical decision support, evidence-based LLM evaluation protocols, and robust, continuously tested data processing pipelines to ensure reproducible healthcare analytics.
 
 ## **Skills**
-Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow), SQL, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R. \
+Languages/Tools: Python (pandas, NumPy, scikit‑learn, TensorFlow, PyTorch), SQL, Snowflake, SAS (EG, Studio), Excel (Pivot Tables, VLOOKUPS, Macros, VBA Editor), R. \
 ML/Analytics: Regression, Classification, Clustering, GMMs, PCA, Time Series, EDA, Model Evaluation. \
 Visualization: Tableau, Power BI, Python (Matplotlib/Seaborn), SAS Viya, Excel. \
-Cloud Computing: Microsoft Azure, End to End Analytics with Snowflake.
+Cloud Computing: Snowflake.
 
 Public Health Skills: Medicaid policy, Healthcare/Medicaid Claims Data, Clinical Coding Systems (ICD-10 CM, SNOMED, CPT, NDCs), Healthcare Systems (HCS, PSYCKES).
 
